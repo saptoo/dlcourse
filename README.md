@@ -11,7 +11,7 @@
 
 `KNN.ipynb` - следуйте инструкциям в ноутбуке.
 
-## Часть 2
+### Часть 2
 Линейный классификатор (Linear classifier)
 
 `Linear classifier.ipynb` - следуйте инструкциям в ноутбуке.
@@ -24,12 +24,12 @@
 - Запустите файл `download_data.sh`, чтобы скачать данные, которые мы будем использовать для тренировки.
 - Установите все необходимые библиотеки, запустив `pip install -r requirements.txt` (если раньше не работали с pip, вам сюда - https://pip.pypa.io/en/stable/quickstart/).
 
-## Часть 1
+### Часть 1
 Нейронная сеть (Neural Network)
 
 `Neural Network.ipynb` - следуйте инструкциям в ноутбуке.
 
-## Часть 2
+### Часть 2
 PyTorch
 
 Это задание все еще можно выполнять без доступа к GPU.
@@ -44,12 +44,12 @@ PyTorch
 - Запустите файл `download_data.sh`, чтобы скачать данные, которые мы будем использовать для тренировки.
 - Установите все необходимые библиотеки, запустив `pip install -r requirements.txt` (если раньше не работали с pip, вам сюда - https://pip.pypa.io/en/stable/quickstart/).
 
-## Часть 1
+### Часть 1
 Сверточная Нейронная Сеть (Convolutional Neural Network)
 
 `CNN.ipynb` - следуйте инструкциям в ноутбуке.
 
-## Часть 2
+### Часть 2
 PyTorch CNN
 
 Для этого задания уже требуется доступ к GPU.
@@ -92,12 +92,12 @@ https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9
 - Запустите файл `download_data.sh`, чтобы скачать данные, которые мы будем использовать для тренировки.
 - Установите все необходимые библиотеки, запустив `pip install -r requirements.txt` (если раньше не работали с pip, вам сюда - https://pip.pypa.io/en/stable/quickstart/).
 
-## Часть 1
+### Часть 1
 Word2Vec
 
 `Word2Vec.ipynb` - следуйте инструкциям в ноутбуке.
 
-## Часть 2
+### Часть 2
 Word2Vec with Negative Sampling
 
 `Negative Sampling.ipynb` - следуйте инструкциям в ноутбуке.
